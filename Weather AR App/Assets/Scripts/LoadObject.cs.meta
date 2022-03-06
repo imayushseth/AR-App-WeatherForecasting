@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0715d9569bb8ed46901e784f12067f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Game_Temp: {instanceID: 0}
+  - Sun: {fileID: 189656, guid: 0c888dbe66b134720ad439a58131f017, type: 3}
+  - Moon: {fileID: 149064, guid: 37e83697080ba47948ac4f7ae86067e3, type: 3}
+  - Storm: {fileID: 172668, guid: f0d6ceedf8bb84476bc861486cccbdf5, type: 3}
+  - Rain: {fileID: 125078, guid: 625a19a30f3ae4f018896d45bca2623f, type: 3}
+  - Cloud: {fileID: 199256, guid: 2ef4368ed26214678b022327260af298, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

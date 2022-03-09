@@ -1,6 +1,17 @@
 # WeatherForecasting-AR-App
 
+<h2>Downloading and installing Unity</h2>
+Download and install the Unity Editor from the Unity download page. The installer uses a Download Assistant and has detailed instructions to follow. If you want to download the Unity Editor using a torrent or install several versions of Unity at once, see Torrent Download, below.
 
+<h3>Unity Download Assistant</h3>
+The Unity Download Assistant is a small executable program (approximately 1 MB in size) which lets you select which components of the Unity Editor you want to download and install.
+
+If you’re not sure which components you want to install, leave the default selections, click Continue, and follow the installer’s instructions.
+
+<img src="https://docs.unity3d.com/2017.3/Documentation/uploads/Main/UnityDownloadAssistant_v52_75.png">
+Unity Download Assistant (leave the default selections if youre not sure which to choose)
+Unity Download Assistant (leave the default selections if you’re not sure which to choose)
+Note that on PC there is Microsoft Visual Studio Community 2015.
 
 
 <h2>Setting up your Project for Vuforia</h2>

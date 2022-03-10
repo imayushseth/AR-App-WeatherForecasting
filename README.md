@@ -71,3 +71,6 @@ Note that on PC there is Microsoft Visual Studio Community 2015.
 <h2>Testing your set-up</h2>
 <p>To test Vuforia apps in the Unity Editor, you need to have a webcam connected to your PC or laptop. As a final step to make sure Vuforia is now installed properly in your Unity Project, press the <b>Play</b> button to test your Scene. If Vuforia is set up correctly, a video feed from your webcam appears in the Editor Game View.</p>
 <p>Now you are ready to set up Image Targets and add AR functionality to your Project.</p>
+
+<h3>
+<a href="https://drive.google.com/file/d/1XX3CF93lTiHmx9_iOIwnrDHnxWuLcAeD/view?usp=drivesdk" download = "Image Target"> Download Image Target Here </a></h3>

@@ -1,14 +1,14 @@
 # WeatherForecasting-AR-App
 
 
-
+<hr>
 <h1>Important Links</h1>
 <h3>1. Working Model <a href="https://drive.google.com/file/d/1T4d2papCfSlYJgG077LBjX5035uvZVZF/view?usp=drivesdk">Video</a></h3>
 <h3>2. Presentation of <a href="https://drive.google.com/file/d/1WdO403cGwLdlqZIzaJv4qUE516MYruaV/view?usp=drivesdk ">AR App</a></h3>
 <h3>3. Code Explanation on <a href="https://youtu.be/lSrxCW4dOqg">YouTube </a></h3>
 <h3>4. Separate Working Model of <a href="https://drive.google.com/file/d/1Uw7Y5AqOMaqdb_qhPprfi9EKaJT_5Qjy/view?usp=drivesdk">AR App</a></h3>
 <h3>5. Link to <a href="https://drive.google.com/file/d/1WH_j3BbWm-KVF7LixiaDEKDH0oH7qc7T/view?usp=drivesdk">WF App </a>Presentation</h3>
-<h3>6. Idea/Approach Detail <a href="https://drive.google.com/file/d/16CjSQKqUBNYVJeyBCbGP9CpEWcVGBnA3/view?usp=drivesdk">Presentation </a></h3><br>
+<h3>6. Idea/Approach Detail <a href="https://drive.google.com/file/d/16CjSQKqUBNYVJeyBCbGP9CpEWcVGBnA3/view?usp=drivesdk">Presentation </a></h3>
 
 
 <hr>
